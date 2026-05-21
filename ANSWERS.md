@@ -43,7 +43,7 @@ A proper ARIA grid pattern calls for arrow keys moving focus between cells. I di
 
 ## 4. AI usage
 
-I used Claude (this model) during development.
+I used Claude during development.
 
 **Where:** I asked for a SVG polyline path for the checkmark that animates nicely with `stroke-dashoffset`. It gave me `<polyline points="2.5,8.5 6.5,12.5 13.5,4.5" />` inside a 16×16 viewBox with `stroke-dasharray: 20` and `stroke-dashoffset: 20 → 0`.
 
